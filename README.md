@@ -40,7 +40,7 @@
 
 <h3 align="left">One of good qoutes:</h3>
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <h3 align="left">OMG! This snake is eating my contributions!</h3>
 
