@@ -34,6 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3laxation&show_icons=true&locale=en" alt="r3laxation" /></p>
 
+<h3 align="left">OMG! This snake is eating my contributions!</h3>
 
-
+![snake gif](https://github.com/R3laxation/R3laxation/blob/output/github-contribution-grid-snake.gif)
 
