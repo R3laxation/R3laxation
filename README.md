@@ -38,11 +38,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3laxation&show_icons=true&locale=en" alt="r3laxation" /></p>
 
+<h3 align="left">One of good qoutes:</h3>
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <h3 align="left">OMG! This snake is eating my contributions!</h3>
 
 ![snake gif](https://github.com/R3laxation/R3laxation/blob/output/github-contribution-grid-snake.gif)
 
-
-<h3 align="left">Just a joke for a good mood:</h3>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
