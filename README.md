@@ -33,10 +33,10 @@
 
 [![codewars](https://www.codewars.com/users/JohnConstantine/badges/large)](https://www.codewars.com/users/JohnConstantine) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3laxation&show_icons=true&locale=en&layout=compact" alt="r3laxation" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3laxation&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="r3laxation" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3laxation&show_icons=true&locale=en" alt="r3laxation" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3laxation&show_icons=true&locale=en&theme=gruvbox" alt="r3laxation" /></p>
 
 <h3 align="left">One of good qoutes:</h3>
 
