@@ -43,6 +43,6 @@
 ![snake gif](https://github.com/R3laxation/R3laxation/blob/output/github-contribution-grid-snake.gif)
 
 
-<h3 align="left">Just a joke for a good mood</h3>
+<h3 align="left">Just a joke for a good mood:</h3>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
