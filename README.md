@@ -35,7 +35,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3laxation&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="r3laxation" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=r3laxation&show_icons=true&hide=prs&locale=en&theme=gruvbox" alt="r3laxation" /></p>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3laxation&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="r3laxation" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=r3laxation&show_icons=true&hide=prs&locale=en&theme=gruvbox" alt="r3laxation" /></span>
 
 
 
