@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3laxation&label=Profile%20views&color=0e75b6&style=flat" alt="r3laxation" /> </p>
 
-- 🔭 I’m currently working on [Google-Keep-Clone]([https://github.com/R3laxation/React-Pizza](https://github.com/R3laxation/Google-Keep-Clone)
+- 🔭 I’m currently working on Google-Keep-Clone(https://github.com/R3laxation/Google-Keep-Clone)
 
 - 🌱 I’m currently learning **Redux Toolkit**
 
