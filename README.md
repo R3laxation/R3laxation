@@ -47,7 +47,7 @@
 
 <h3 align="left">OMG! This snake is eating my contributions!</h3>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/R3laxation/R3laxation/11df9ba4c9a55c4ad27dfdf433b75f13a92e3e13/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/R3laxation/R3laxation/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
