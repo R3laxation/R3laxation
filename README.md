@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20Guest!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
 <h1 align="center">Hi 👋, I'm Pankratov Konstantin</h1>
-<h3 align="center">A passionate frontend developer from Kazakhstan</h3>
+<h3 align="center">A passionate frontend developer/h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif">
